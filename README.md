@@ -6,6 +6,10 @@ Alternately, the documentation is mirrored and exported from: https://coaguco.co
 
 What's New
 -------------
+**Update 11/29/22**
+- Added: new game to game list
+- Changed: new details for P2P tutorial, thanks to _
+
 **Update 11/13/22**
 - Added: new games to game list
 
