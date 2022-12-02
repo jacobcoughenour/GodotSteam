@@ -6,9 +6,13 @@ Alternately, the documentation is mirrored and exported from: https://coaguco.co
 
 What's New
 -------------
+**Update 12/2/22**
+- Added: new gmae to game list
+- Changed: added new link for game
+
 **Update 11/29/22**
 - Added: new game to game list
-- Changed: new details for P2P tutorial, thanks to _
+- Changed: new details for P2P tutorial, thanks to _polyrain_
 
 **Update 11/13/22**
 - Added: new games to game list
